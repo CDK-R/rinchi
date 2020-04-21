@@ -6,7 +6,7 @@ Author: Rajarshi Guha <rajarshi.guha@gmail.com>
 Maintainer: Rajarshi Guha <rajarshi.guha@gmail.com>
 Depends: R (>= 2.0.0)
 Imports: rJava, rcdklibs, rcdk
-License: GPL (>= 2)
+License: LGPL
 Description: Generate InChI and InChI keys from SMILES and other chemical file formats.
  In addition, if the rcdk library is available, CDK AtomContainer objects can be directly
  passed to the rinchi methods to produce InChI output.
